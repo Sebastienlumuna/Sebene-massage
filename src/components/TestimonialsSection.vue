@@ -1,17 +1,17 @@
 <script setup lang="ts">
 const testimonials = [
   {
-    name: 'Marie L.',
+    name: 'Lamba L.',
     text: 'Une expérience incroyablement relaxante. Sophie a su cibler parfaitement mes zones de tension. Je reviendrai sans hésiter !',
     rating: 5
   },
   {
-    name: 'Thomas R.',
+    name: 'Tuna Ngulu.',
     text: 'Le massage deep tissue a complètement soulagé mes douleurs chroniques du dos. Service professionnel dans un cadre apaisant.',
     rating: 5
   },
   {
-    name: 'Julie M.',
+    name: 'Mwamba M.',
     text: 'Cadre magnifique et ambiance sereine. Le massage aux pierres chaudes était exactement ce dont j\'avais besoin après une semaine stressante.',
     rating: 4
   }
@@ -26,7 +26,7 @@ const testimonials = [
         <h2 class="text-3xl md:text-4xl font-bold text-white mb-6">Témoignages</h2>
         <div class="h-1 w-20 bg-white mx-auto mb-6"></div>
         <p class="text-gray-100">
-          Découvrez ce que nos clients disent de leur expérience chez Harmonie Massage.
+          Découvrez ce que nos clients disent de leur expérience chez Sebene Massage.
         </p>
       </div>
       

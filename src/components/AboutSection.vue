@@ -26,11 +26,11 @@ defineProps<{
           <div class="h-1 w-20 bg-gradient-to-r from-primary to-secondary mb-6"></div>
           
           <h3 class="text-xl md:text-2xl font-semibold text-primary-dark mb-4">
-            Sophie Beaumont, Fondatrice & Masseuse professionnelle
+            Sebastien Lumuna, Fondateur & Masseur professionnel
           </h3>
           
           <p class="text-gray-700 mb-4">
-            Bienvenue chez Harmonie Massage. Je suis Sophie, passionnée par l'art du massage depuis plus de 10 ans. Formée aux techniques traditionnelles et modernes, j'ai créé ce lieu pour offrir une expérience unique de détente et de bien-être.
+            Bienvenue chez Sebene Massage. Je suis Sebastien, passionné par l'art du massage depuis plus de 10 ans. Formé aux techniques traditionnelles et modernes, j'ai créé ce lieu pour offrir une expérience unique de détente et de bien-être.
           </p>
           
           <p class="text-gray-700 mb-6">

@@ -4,7 +4,7 @@
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
         <!-- Brand Column -->
         <div class="col-span-1 md:col-span-1">
-          <h2 class="text-2xl font-bold text-white mb-4">Harmonie Massage</h2>
+          <h2 class="text-2xl font-bold text-white mb-4">Sebene Massage</h2>
           <p class="text-gray-300 mb-4">
             Des massages de qualité dans un cadre relaxant et privé.
           </p>
@@ -61,7 +61,7 @@
       </div>
       
       <div class="mt-12 pt-8 border-t border-gray-700 text-center text-gray-400 text-sm">
-        <p>&copy; {{ new Date().getFullYear() }} Harmonie Massage. Tous droits réservés.</p>
+        <p>&copy; {{ new Date().getFullYear() }} Sebene Massage. Tous droits réservés.</p>
       </div>
     </div>
   </footer>

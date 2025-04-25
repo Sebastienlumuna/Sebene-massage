@@ -15,7 +15,7 @@ defineProps<{
     <!-- Content -->
     <div class="container relative z-10 mx-auto px-4">
       <div class="max-w-3xl animate-fade-in">
-        <h1 class="text-4xl md:text-6xl font-bold text-white mb-4">Harmonie Massage</h1>
+        <h1 class="text-4xl md:text-6xl font-bold text-white mb-4">Sebene Massage</h1>
         <p class="text-xl md:text-2xl text-white mb-8">
           Découvrez l'art de la relaxation profonde et du bien-être.
         </p>

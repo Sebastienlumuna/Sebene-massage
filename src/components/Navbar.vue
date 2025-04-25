@@ -45,7 +45,7 @@ onUnmounted(() => {
       <div class="flex justify-between items-center">
         <!-- Logo -->
         <a href="#" class="text-2xl font-bold transition-colors duration-300" :class="textClasses">
-          Harmonie Massage
+          Sebene Massage
         </a>
         
         <!-- Desktop Menu -->
